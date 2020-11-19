@@ -17,4 +17,3 @@ Instructions to try this project:-
 3) Thats it..! It should work on your server fine.
 
 PS:- The base of this project was downloaded from git and add more features and improved UI. 
-Only one commit exist ie Beginning.
