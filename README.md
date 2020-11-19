@@ -16,4 +16,5 @@ Instructions to try this project:-
 2) Change the database details in the db.php file
 3) Thats it..! It should work on your server fine.
 
-PS:- This is my first opensource project. feel free to report any issues.
+PS:- The base of this project was downloaded from git and add more features and improved UI. 
+Only one commit exist ie Beginning.
